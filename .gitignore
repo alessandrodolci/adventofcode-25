@@ -1,0 +1,11 @@
+.clj-kondo/*
+!.clj-kondo/config.edn
+.cpcache/
+.lsp
+.nrepl-port
+**/.calva/repl.calva-repl
+backup/
+bundled/drams-menu/drams-local.edn
+clojure.tmLanguage.json
+input/*.txt
+output.calva-repl
